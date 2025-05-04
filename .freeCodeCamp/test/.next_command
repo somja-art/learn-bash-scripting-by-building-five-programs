@@ -34,3 +34,4 @@ touch questionnarie.sh
 touch questionnaire.sh
 touch questionnaire.sh
 sh questionnaire.sh
+bash questionnaire.sh
