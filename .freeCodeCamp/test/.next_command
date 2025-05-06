@@ -254,3 +254,10 @@ help test
 ./bingo.sh
 ./bingo.sh
 touch fortune.sh
+chmod -x fortune.sh
+help chmod
+info chmod
+help help
+chmod -x fortune.sh
+chmod -x bingo.sh
+chmod +x fortune.sh
