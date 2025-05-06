@@ -261,3 +261,4 @@ help help
 chmod -x fortune.sh
 chmod -x bingo.sh
 chmod +x fortune.sh
+./fortune.sh
