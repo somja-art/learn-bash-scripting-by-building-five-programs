@@ -284,3 +284,4 @@ help
 help until
 HELP TEST
 help test
+./fortune.sh
