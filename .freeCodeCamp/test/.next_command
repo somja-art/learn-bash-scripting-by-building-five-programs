@@ -288,3 +288,4 @@ help test
 help [[ expression ]]
 [[ "hello" == "hello" ]]
 [[ "hello" == "world" ]]
+[[ "hello" =~ "el" ]]
